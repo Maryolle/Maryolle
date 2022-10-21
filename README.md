@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Maryolle
-- 👀 I’m interested in software testing
-- 🌱 I’m currently learning manual testing and Java 
+- 👀 I’m working in software testing department
 - 📫 How to reach me - maryolle@yandex.ru
 
 <!---
